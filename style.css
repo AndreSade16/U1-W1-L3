@@ -1,0 +1,85 @@
+main {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
+
+footer {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  color: rgb(59, 59, 59);
+}
+
+main video {
+  width: 100%;
+  border-radius: 1%;
+  box-shadow: 1px 1px 5px grey;
+}
+
+header {
+  text-align: center;
+  height: 10vh;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(59, 59, 59);
+}
+
+p {
+  color: rgb(59, 59, 59);
+}
+
+#caption {
+  text-align: center;
+  color: rgb(124, 124, 124);
+}
+
+#features-container {
+  border-left: 1px solid gold;
+  padding-left: 3%;
+}
+
+#features-container h4 {
+  font-weight: 500;
+  color: #b73900;
+  margin-bottom: 0;
+}
+
+.section li {
+  color: rgb(59, 59, 59);
+  font-weight: 500;
+}
+
+#logo {
+  height: 100%;
+}
+
+#header-slogan {
+  background: rgba(255, 217, 0, 0.082);
+  border-top: 1.5px solid gold;
+  padding-bottom: 10px;
+  margin: 0;
+  padding-top: 10px;
+  font-weight: 400;
+  font-size: 0.8em;
+  color: rgb(1, 83, 83);
+}
+
+.section h2 {
+  border-bottom: 1px solid rgba(97, 222, 222, 0.452);
+  font-weight: 500;
+  color: rgb(59, 59, 59);
+  padding-bottom: 5%;
+}
+
+.section h4 {
+  color: rgb(59, 59, 59);
+}
+
+a {
+  color: rgb(1, 83, 83);
+}
